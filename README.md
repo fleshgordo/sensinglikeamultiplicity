@@ -2,7 +2,7 @@
 
 ## About 
 
-Doctoral course 2023  EDAR EPFL organized by Negueruela Del Castillo Darío, Savicic Gordan, Garcia de Jalon Oyarzun Lucia-Nieves
+Doctoral course 2023  EDAR EPFL organized by Negueruela Del Castillo Darío, Savicic Gordan, Garcia de Jalon Oyarzun Lucia-Nieves, Neri Iacopo with guests
 
 Dates January 31 to February 2nd 2023
 
@@ -12,7 +12,7 @@ A hands-on approach on how sensing works is complemented with theoretical insigh
 
 ## Structure
 
-- Day 1 **Scraping / Coded Environments ** Link to Colab
+- Day 1 **Scraping / Coded Environments** Link to Colab
 - Day 2 **Augment / Urban machine vision and operational images** Link to Colab
 - Day 3 **Synthesize / Networked imaginaries** Link to Colab
 
