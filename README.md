@@ -12,7 +12,7 @@ A hands-on approach on how sensing works is complemented with theoretical insigh
 
 ## Structure
 
-- Day 1 **Scraping / Coded Environments** [Link to notebook](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day1/Missing_data.ipynb)
+- Day 1 **Scraping / Coded Environments** [Link to Missingdata notebook](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day1/Missing_data.ipynb) [Link to HFT](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day1/HFT_analysis.ipynb)
 - Day 2 **Augment / Urban machine vision and operational images** [Link to notebook]()
 - Day 3 **Synthesize / Networked imaginaries** [Link to notebook]()
 
