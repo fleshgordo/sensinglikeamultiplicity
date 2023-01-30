@@ -13,7 +13,7 @@ A hands-on approach on how sensing works is complemented with theoretical insigh
 ## Structure
 
 - Day 1 **Scraping / Coded Environments** [Link](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day1/Missing_data.ipynb) to Missingdata notebook [Link](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day1/HFT_analysis.ipynb) to HFT
-- Day 2 **Augment / Urban machine vision and operational images** [Link](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day2/Augmenting_data.ipynb) to Augmenting data notebbok and [Link](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day2/Analysing_imageDB.ipynb) to Analysing the image db notebook.
+- Day 2 **Augment / Urban machine vision and operational images** [Link](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day2/Augmenting_data.ipynb) to Augmenting data notebook and [Link](https://colab.research.google.com/github/fleshgordo/sensinglikeamultiplicity/blob/main/day2/Analysing_imageDB.ipynb) to Analysing the image db notebook.
 - Day 3 **Synthesize / Networked imaginaries** [Link](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PjzwxTkPSPHf) to the Colab deployment of the [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) web-ui library implemented by [TheLastBen](https://github.com/TheLastBen/fast-stable-diffusion)
 
 ## Links
