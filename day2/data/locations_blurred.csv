@@ -1,4 +1,4 @@
-id,path,name,x,y
+id;path;name;x;y
 0;000.jpg;Antarctica;87.82472222222222;-70.17777777777778
 1;001.jpg;North of South China Sea;114.4525;16.071666666666665
 2;002.jpg;Area northwest of Mount Kailash;81.22333333333333;31.219166666666666
